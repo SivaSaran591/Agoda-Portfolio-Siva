@@ -140,7 +140,7 @@ elif selection == "💖 We Go Together!":
     st.markdown("### Why Agoda? 🛫", unsafe_allow_html=True)
     st.markdown(
         """
-    For me, Agoda isn't just a company; it's a **high-octane rocketship** 🚀 in the travel galaxy! I'm drawn by:
+    For me, Agoda isn't just a company; it's a **high-octane rocketship** in the travel galaxy! I'm drawn by:
     - 🔥 **Dynamic Energy:** A constant surge of innovation and progress.
     - 💡 **Bold Innovation:** They dare to disrupt and redefine the travel experience.
     - 📊 **Data-Driven Culture:** Where insights fuel every decision (my kind of language!).
@@ -173,28 +173,28 @@ elif selection == "🚀 Campaign Chronicles":
     st.markdown('<h2 class="section-title">Data-Backed Victories 🏆</h2>', unsafe_allow_html=True)
 
     with st.expander("🎯 Mission: CFO Takeover"):
-        st.markdown("**Objective:** Win the hearts (and wallets) of CFOs")
+        st.markdown("**Objective:** Capture CFO mindshare in mid-market accounts.")
         st.markdown("**Tactic:** Precision-crafted outbound sequences plus laser-focused nurture flows.")
-        st.markdown("**Victory:** Doubled the benchmark pipeline. My 'Golden Campaign' indeed! 🏆")
-        st.markdown("*Fun Moment:* Our emails had a charm that was twice as effective as the industry average. 😉")
+        st.markdown("**Victory:** Tripled SQL pipeline and improved sales-cycle velocity by 15%.")
+        st.markdown("*Fun Moment:* Our email open rates were double industry benchmarks. 😉")
 
     with st.expander("🥇 Mission: PLM Cloud Launch Spectacle"):
-        st.markdown("**Objective:** Launch a brand-new PLM cloud product with maximum impact.")
+        st.markdown("**Objective:** Launch a brand-new PLM cloud product with immediate impact.")
         st.markdown("**Tactic:** A full-stack GTM approach: electrifying webinars, insightful blogs, and compelling testimonials.")
         st.markdown("**Victory:** Smashed goals by 250%, generating a $10M+ pipeline in a single month! 🎉")
         st.markdown("*Fun Moment:* The Sales team joked they needed an extra pair of hands. 😎")
 
     with st.expander("🚀 Mission: Inbound Avengers Assemble"):
-        st.markdown("**Objective:** Respond to inbound leads with superhero speed and efficiency.")
+        st.markdown("**Objective:** Respond to inbound leads with rapid speed and efficiency.")
         st.markdown("**Tactic:** Assembled a crack team for inbound lead qualification.")
         st.markdown("**Victory:** Cut response time by 80%, leading to an explosive increase in pipeline velocity! ⚡")
-        st.markdown("*Fun Moment:* We even implemented a 'Bat Signal' for ultra-hot leads. 🦇🔥")
+        st.markdown("*Fun Moment:* The gamified leaderboard boosted team speed by 35% and kept morale sky-high🔥")
 
     with st.expander("🚗 Mission: Rebrand Automotive's Ride to the Future"):
         st.markdown("**Objective:** Modernize HCL's Automotive positioning to align with CASE (Connected, Autonomous, Shared, Electric) innovation.")
         st.markdown("**Tactic:** Revamped web presence, launched engaging podcasts, and secured key analyst recognitions.")
         st.markdown("**Victory:** Achieved an 80% boost in organic form fills within a quarter! 📈")
-        st.markdown("*Fun Moment:* Leadership showcased it as a global town hall success story. 🏆🏎️")
+        st.markdown("*Fun Moment:* Sales remarked the updated positioning was a real game changer in all their deals 🏎️")
 
 # --- 30/60/90 Blueprint Section ---
 elif selection == "📅 30/60/90 Blueprint":
@@ -203,7 +203,7 @@ elif selection == "📅 30/60/90 Blueprint":
 
     st.markdown('<h2 class="section-title">Roadmap for Success 💡</h2>', unsafe_allow_html=True)
 
-    st.markdown('<p class="blueprint-title">First 30 Days: Recon & Rally 🚀</p>', unsafe_allow_html=True)
+    st.markdown('<p class="blueprint-title">First 30 Days: Understand & Audit 🚀</p>', unsafe_allow_html=True)
     st.markdown("🗺️ **Understand the Terrain:** Deep dive into Agoda’s products, ICPs, and competitors.")
     st.markdown("📊 **Analyze the Data:** Audit current funnel metrics and campaign performance.")
     st.markdown("🤝 **Build Bridges:** Establish strong relationships with Sales, Product, and Content teams.")
